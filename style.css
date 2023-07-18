@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Lugrasimo&family=Nunito+Sans&display=swap');
+
+body{
+    background-color: #EEEDE7;
+}
+.project-name{
+    font-family: 'Nunito Sans';
+    font-size: 20px;
+    text-align: center;
+}
+.first-question{
+    text-align: center;
+}
+.first-question p{
+    font-family: 'Nunito Sans';
+    font-weight: bold;
+    color: #868B8E
+}
+
+.first-question input{
+    border: none;
+}
+
+.second-question input{
+    border: none;
+}
+
+.second-question{
+    text-align: center;
+}
+.second-question p{
+    font-family: 'Nunito Sans';
+    font-weight: bold;
+    color: #868B8E
+}
+
+.second-question input{
+    border: none;
+}
+
+
+.checkboxes{
+    color: #868B8E;
+    display: block;
+    text-align: center;
+    
+
+}
+
+.special-class{
+    margin-top: 20px;
+}
+
+.capital-class{
+    margin-top: 20px;
+}
+
+.submit{
+    margin-top: 20px;
+    background-color: #E7D2CC;
+    border: none;
+    border-radius: 15px;
+    height: 30px;
+
+}
+.answer-div{
+    margin-top: 60px;
+    font-family: 'Nunito Sans';
+    font-size: 20px;
+    text-align: center;
+}
+
+.answer-div h1{
+    color: #B9B7BD;
+}
+
+.answer-div p{
+    color: #0A0708;
+}
+.error{
+    color: red;
+}
+
+.star-info{
+    color: red;
+    font-size: 15px;
+}
+span{
+    text-align: center;
+}
+
+
+
+
